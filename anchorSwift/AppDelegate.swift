@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  anchorSwift
-//
-//  Created by MobioApp on 5/15/17.
-//  Copyright © 2017 MobioApp. All rights reserved.
-//
 
 import UIKit
 
